@@ -1,0 +1,6 @@
+1) make basic frontend (html, css, js)
+2) start json server
+	- npm init -y (to initialize this as a node project)
+	- npm i json-server
+	- npm run
+3) have a json database
